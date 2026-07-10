@@ -1,0 +1,9 @@
+{
+  "python.analysis.extraPaths": [
+    "./src"
+  ],
+  "files.associations": {
+    "*.mako": "html"
+  },
+  "python.analysis.typeCheckingMode": "basic"
+}
